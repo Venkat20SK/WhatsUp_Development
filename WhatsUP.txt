@@ -22,6 +22,7 @@ Author: Arulprasath
 
 10. Adding new feature
 11. Connecting people
+11.1 Adding a new feature for sending the sticker to friends
 
 
 11. Block the spam users.
